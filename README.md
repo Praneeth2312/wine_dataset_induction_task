@@ -58,7 +58,7 @@ Classification Report:
 weighted avg       0.71      0.70      0.70       980
 ```
 ## Contributor:
- Akshay Praneeeth
+ Akshay Praneeth
  [Email me](mailto:akshaysunkara23@gmail.com)
  
 
