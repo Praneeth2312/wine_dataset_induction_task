@@ -17,7 +17,7 @@ The project is organized as follows:
  **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/club-induction-task.git
+   git clone https://github.com/Praneeth2312/wine_dataset_induction_task.git
 ```
 # Results:
 ### Linear_Regression:
